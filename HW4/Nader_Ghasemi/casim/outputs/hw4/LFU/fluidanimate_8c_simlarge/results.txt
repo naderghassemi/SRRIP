@@ -1,0 +1,5 @@
+outputs/hw4/LFU/fluidanimate_8c_simlarge/zsim.out
+3701027028
+1.35098471537
+0.877498568986
+

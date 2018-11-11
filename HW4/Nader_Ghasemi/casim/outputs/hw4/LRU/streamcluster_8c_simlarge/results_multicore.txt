@@ -1,0 +1,5 @@
+outputs/hw4/LRU/streamcluster_8c_simlarge/zsim.out
+6749893648
+0.740752718894
+7.33958215848
+

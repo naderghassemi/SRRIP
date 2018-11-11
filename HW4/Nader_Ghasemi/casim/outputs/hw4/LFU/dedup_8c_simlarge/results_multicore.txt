@@ -1,0 +1,5 @@
+outputs/hw4/LFU/dedup_8c_simlarge/zsim.out
+3572709635
+1.39951992152
+1.02009562367
+

@@ -1,0 +1,5 @@
+outputs/hw4/LFU/calculix/zsim.out
+49426940
+2.02348818276
+0.058891267014
+

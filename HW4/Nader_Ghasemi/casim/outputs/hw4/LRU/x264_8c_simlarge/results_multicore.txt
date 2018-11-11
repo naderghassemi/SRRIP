@@ -1,0 +1,5 @@
+outputs/hw4/LRU/x264_8c_simlarge/zsim.out
+3007658944
+1.66244007319
+0.795644205158
+

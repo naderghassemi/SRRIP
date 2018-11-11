@@ -1,0 +1,5 @@
+outputs/hw4/LFU/blackscholes_8c_simlarge/zsim.out
+2975340824
+1.36545700184
+0.00724838168772
+

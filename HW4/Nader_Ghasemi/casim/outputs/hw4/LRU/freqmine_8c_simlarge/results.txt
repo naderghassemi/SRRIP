@@ -1,0 +1,5 @@
+outputs/hw4/LRU/freqmine_8c_simlarge/zsim.out
+4307884748
+1.16066753209
+1.05824795239
+

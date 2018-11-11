@@ -1,0 +1,5 @@
+outputs/hw4/LFU/x264_8c_simlarge/zsim.out
+3012479438
+1.65977925888
+0.85717047589
+

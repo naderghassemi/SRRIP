@@ -1,0 +1,5 @@
+outputs/hw4/LFU/cactusADM/zsim.out
+94249106
+1.06109326915
+4.79224013433
+

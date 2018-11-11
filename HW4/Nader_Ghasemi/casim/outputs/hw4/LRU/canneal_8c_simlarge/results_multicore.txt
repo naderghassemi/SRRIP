@@ -1,0 +1,5 @@
+outputs/hw4/LRU/canneal_8c_simlarge/zsim.out
+4982385638
+0.345612709877
+13.2381024016
+

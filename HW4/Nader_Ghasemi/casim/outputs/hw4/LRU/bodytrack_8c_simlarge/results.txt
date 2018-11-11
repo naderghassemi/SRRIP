@@ -1,0 +1,5 @@
+outputs/hw4/LRU/bodytrack_8c_simlarge/zsim.out
+2966922030
+1.6852578893
+0.0362607914424
+

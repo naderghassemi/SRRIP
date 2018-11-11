@@ -1,0 +1,5 @@
+outputs/hw4/LFU/swaptions_8c_simlarge/zsim.out
+3143060102
+1.59082609582
+0.00224217218316
+
